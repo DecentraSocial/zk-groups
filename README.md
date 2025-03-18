@@ -5,7 +5,7 @@
       <img width="250" alt="My Privacy Protocol icon" src="https://raw.githubusercontent.com/myusername/myproject/main/assets/my-logo.svg">
     </picture>
   </h1>
-  <p>Created by [Your Name]</p>
+  <p>Created by Advaita, Rahul, Anushka</p>
 </p>
 
 <p align="center">
